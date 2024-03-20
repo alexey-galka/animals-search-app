@@ -1,7 +1,7 @@
-# Project Name
+# Find Me
 
 ## Description
-This repository contains the backend API documentation for the Project Name project. The API provides endpoints for managing users, animals, shelters, and administrative tasks related to the project.
+This repository contains the backend API documentation for the Find Me project. The API provides endpoints for managing users, animals, shelters, and administrative tasks related to the project.
 
 Users can sign up, sign in, and manage their profiles. They can also create, update, and delete records of lost and found animals. Additionally, users can search for lost animals using specific criteria.
 
